@@ -1,0 +1,7 @@
+name: FightClub
+version: '${project.version}'
+main: me.n2g7mutf8.Core
+prefix: FightClub
+authors: [ n2g7mutf8 ]
+description: asdasdasdas
+website: Joe Mama
