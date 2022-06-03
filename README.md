@@ -14,3 +14,7 @@ A FightClub plugin for spigot 1.8.8
 - Combat Logger [X]
 - Anti Boosting [X]
 - Add more essential commands [In Progress
+
+#Important
+- Add MongoDB support
+- Fix issue with getConfig()
